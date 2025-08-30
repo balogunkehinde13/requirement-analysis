@@ -6,10 +6,11 @@
 During requirement analysis, stakeholders such as clients, end-users, and the development team collaborate to clearly define what the system should do, how it should behave, and what constraints it must operate under. This process helps bridge the gap between abstract business ideas and actionable technical solutions.
 
 ### Key Aspects of Requirement Analysis
-- **Elicitation:** Gathering requirements through interviews, surveys, workshops, or observation.
-- **Analysis:** Organizing, prioritizing, and validating requirements to resolve conflicts and remove ambiguities.
-- **Specification:** Documenting the requirements in a clear, detailed, and structured format (e.g., Software Requirement Specification – SRS).
-- **Validation:** Ensuring that requirements are accurate, feasible, and testable.
+- **Requirement Gathering:** Engage with stakeholders to collect initial requirements using techniques such as interviews, surveys, and workshops.  
+- **Requirement Elicitation:** Refine and elaborate on the gathered requirements through brainstorming, focus groups, and prototyping.  
+- **Requirement Documentation:** Record the requirements in a detailed and structured format using specification documents, user stories, and use cases.  
+- **Requirement Analysis and Modeling:** Analyze and prioritize requirements, and create models to visualize and understand them better.  
+- **Requirement Validation:** Review and validate requirements with stakeholders by defining acceptance criteria and ensuring traceability.  
 
 ## Why is Requirement Analysis Important?
 
