@@ -18,4 +18,4 @@ During requirement analysis, stakeholders such as clients, end-users, and the de
 4. **Quality Assurance:** Establishes a baseline for designing test cases, ensuring the final product meets user expectations.  
 5. **Risk Reduction:** Identifies potential challenges early, allowing teams to plan mitigations before development begins.
 
-In summary, requirement analysis is **crucial to building the right product**—not just building the product right. It sets the direction for design, development, testing, and deployment, making it one of the most critical stages of the SDLC.
+In summary, requirement analysis is **crucial to building the right product** not just building the product right. It sets the direction for design, development, testing, and deployment, making it one of the most critical stages of the SDLC.
