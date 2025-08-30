@@ -92,7 +92,7 @@ Examples for the Booking Management Project:
 
 The following diagram illustrates the use cases for the ALX Booking system:
 
-![ALX Booking Use Case Diagram](./use_case_diagram.png)
+![ALX Booking Use Case Diagram](./alx-booking-uc.png)
 
 ## Acceptance Criteria
 
