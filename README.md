@@ -93,3 +93,18 @@ Examples for the Booking Management Project:
 The following diagram illustrates the use cases for the ALX Booking system:
 
 ![ALX Booking Use Case Diagram](./use_case_diagram.png)
+
+## Acceptance Criteria
+
+Acceptance Criteria are a vital part of Requirement Analysis as they define the specific conditions under which a feature is considered complete and functioning as intended. They ensure clarity between stakeholders, developers, and testers by setting measurable and testable expectations for each feature. Well-written acceptance criteria reduce ambiguity, guide development, and make validation straightforward.
+
+### Example: Checkout Feature
+
+**Feature:** Checkout in the Booking Management System
+
+**Acceptance Criteria:**
+- Users must be able to view a summary of their selected bookings before proceeding to payment.  
+- The system must allow users to enter valid payment details and process transactions securely.  
+- If payment is successful, users should receive a booking confirmation with details via email.  
+- If payment fails, the system must display an appropriate error message and allow retry.  
+- The booking record must only be created in the database upon successful payment.  
