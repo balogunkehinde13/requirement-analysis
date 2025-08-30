@@ -87,3 +87,9 @@ Examples for the Booking Management Project:
 - **User Experience**
   - Provide a smooth and glitch-free flow from hotel listing to booking and payments.  
   - Use CDN (Content Delivery Network) for faster content delivery, ensuring minimal loading time for customers worldwide.  
+
+## Use Case Diagrams
+
+The following diagram illustrates the use cases for the ALX Booking system:
+
+![ALX Booking Use Case Diagram](./use_case_diagram.png)
